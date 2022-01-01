@@ -1,2 +1,2 @@
 # DailyCoding_HashClub
-HashClub DSA questions and answers
+I2IT HashClub DSA questions and answers
