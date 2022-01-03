@@ -9,6 +9,7 @@ https://varshitha1707.github.io/the-hash-club/
 ### Questions Solved 
 
 1. https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+2. https://leetcode.com/problems/find-the-town-judge/
 
 
 
