@@ -1,3 +1,4 @@
+/* SOLUTION 1 -------------------------------------------- */ 
 class Solution {
 public:
     // This function returns the email id after appyling rules on it
@@ -30,4 +31,42 @@ public:
         
         return dict.size();
     }
+};
+
+/* SOLUTION 2 ------------------------------------------------------------ */ 
+class Solution {
+public:
+	int numUniqueEmails(vector<string>& emails) {
+		set<string>ans;
+		for(string email:emails){
+			stringstream s(email);
+			string local,domain,buffer;
+
+			int i=0;
+			while(getline(s,buffer,'@')){
+				if(i==0){
+					local=buffer;
+					i++;
+				}else{
+					domain=buffer;
+				}
+			}
+			string res;
+
+			for(char c: local){
+				if(c=='.'){
+					continue;
+				}else if(c=='+'){
+					break;
+				}else{
+					res+=c;
+				}
+			}
+			ans.insert(res+"@"+domain);
+				// cout<<res+domain<<" ";
+		}
+
+		return ans.size();
+
+	}
 };
