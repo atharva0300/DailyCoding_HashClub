@@ -11,6 +11,7 @@ https://varshitha1707.github.io/the-hash-club/
 1. https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2. https://leetcode.com/problems/find-the-town-judge/
 3. https://leetcode.com/problems/unique-email-addresses/
+4. https://leetcode.com/problems/maximum-subarray/
 
 
 
