@@ -14,6 +14,7 @@ https://varshitha1707.github.io/the-hash-club/
 <li>Day 3 - https://leetcode.com/problems/unique-email-addresses/</li>
 <li>Day 4 - https://leetcode.com/problems/maximum-subarray/</li>
 <li>Day 5 - https://leetcode.com/problems/shuffle-string/submissions/</li>
+<li>Day 6 - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/</li>
 </ul>
 
 
