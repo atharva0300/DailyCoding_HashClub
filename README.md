@@ -17,6 +17,8 @@ https://varshitha1707.github.io/the-hash-club/
 <li>Day 6 - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/</li>
 <li>Day 7 - https://leetcode.com/problems/trapping-rain-water/ </li>
 <li>Day 8 - https://leetcode.com/problems/intersection-of-two-arrays-ii/</li>
+<li>Day 9 - https://leetcode.com/problems/binary-search/</li>
+<li>Day 10 - https://leetcode.com/problems/search-insert-position/</li>
 </ul>
 
 
